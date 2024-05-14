@@ -1,4 +1,4 @@
-# CS-320-contact
+# Contact Managment
 
 *How can I ensure that my code, program, or software is functional and secure?*
 
